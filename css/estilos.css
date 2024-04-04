@@ -6,13 +6,13 @@ title{
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-h1{
+h1,.Contato{
     
     background-color:#E1EDF2 ;
     
 }
 
-h2{
+.comum{
 
     border-bottom: dashed black;
 }
